@@ -51,7 +51,7 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/CyberIncident-IncidentResponseAssistant.git
+git clone https://github.com/rohit578ra-wq/CyberIncident-IncidentResponseAssistant.git
 cd CyberIncident-IncidentResponseAssistant
 ```
 
