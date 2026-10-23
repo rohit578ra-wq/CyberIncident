@@ -51,8 +51,8 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/rohit578ra-wq/CyberIncident-IncidentResponseAssistant.git
-cd CyberIncident-IncidentResponseAssistant
+git clone https://github.com/rohit578ra-wq/CyberIncident.git
+cd CyberIncident
 ```
 
 ### 2. Set Up Virtual Environment
