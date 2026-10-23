@@ -82,7 +82,7 @@ Open your browser at `http://localhost:8501`.
 ## 📁 Project Structure
 
 ```
-CyberIncident-IncidentResponseAssistant/
+CyberIncident/
 │
 ├── app.py                 # Core Streamlit incident management dashboard
 ├── requirements.txt       # Project dependencies
