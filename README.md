@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ### 4. Run CyberIncident
 ```bash
-streamlit run app.py
+streamlit run RohitKumar_cyberlncident.py
 ```
 Open your browser at `http://localhost:8501`.
 
@@ -84,10 +84,10 @@ Open your browser at `http://localhost:8501`.
 ```
 CyberIncident/
 │
-├── app.py                 # Core Streamlit incident management dashboard
+├── RohitKumar_cyberlncident.py                 # Core Streamlit incident management dashboard
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Project documentation & GitHub showcase
-└── PROJECT_REPORT.md      # Comprehensive academic & technical report
+└── RohitKumar_ProjectReport.docx      # Comprehensive academic & technical report
 ```
 
 ---
